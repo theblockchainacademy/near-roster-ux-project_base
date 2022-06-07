@@ -1,0 +1,43 @@
+button {
+  background-color: #008cba; /* Blue */
+  font-size: 18px;
+  padding: 12px 28px;
+  color: #fff;
+  border-radius: 12px;
+}
+button:hover {
+  background-color: #4caf50; /* Green */
+  color: white;
+}
+body {
+  background-color: rgb(158, 209, 143);
+}
+h1 {
+  width: 80%;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+h2 {
+  width: 80%;
+}
+#div-a {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(155, 181, 130);
+  padding: 10px;
+}
+.todo {
+  background-color: rgb(211, 140, 199);
+  margin: 10px;
+  padding: 10px;
+}
+
+ul li {
+  background: #0a0b0b;
+  margin: 5px;
+  font-size: 28px;
+}
+input {
+  width: 60%;
+  font: size 32px;
+  font: bold 12px/30px Georgia, serif;
+}
